@@ -146,7 +146,7 @@ const Login = (props) => {
                             </ul>
                         </div>
                         <div className="col-12 col-md-6">
-                            <p className="footer-p">Copyright © VCLOUDX PTE LTD. All rights reserved.</p>
+                            <p className="footer-p">© 2025 Tata Teleservices Ltd.</p>
                         </div>
                     </div>
                 </div>
